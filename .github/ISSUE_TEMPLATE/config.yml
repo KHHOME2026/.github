@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 组织协作指南
+    url: https://github.com/KHHOME2026/.github/blob/main/CONTRIBUTING.md
+    about: 提 Issue 前请先阅读贡献指南
