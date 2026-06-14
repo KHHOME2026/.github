@@ -1,0 +1,28 @@
+# === 通用临时/结果目录(团队规范) ===
+temp/
+results/
+backup/
+*.log
+
+# === 密钥与本地配置(严禁提交) ===
+.env
+.env.*
+*.pem
+*.key
+secrets.*
+**/credentials*
+
+# === 依赖目录 ===
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+dist/
+build/
+
+# === 编辑器/系统 ===
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
